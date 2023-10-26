@@ -3,7 +3,7 @@ Complex Adaptive Systems
 - Fractals
 - Cellular Automata
 
-Geohotz - From the transistor
+[From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor)
 
 [Wolfram Physics Project](https://www.wolframphysics.org)
 
