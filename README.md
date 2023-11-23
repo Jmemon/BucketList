@@ -28,6 +28,8 @@ Stochastic Differential Equations
 Information Theory
 - [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
+Horomone Biology
+
 ## Create
 Learn graph generation rules (as in wolfram physics project) using ML
 
