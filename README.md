@@ -31,7 +31,7 @@ Information Theory
 Horomone Biology
 
 ## Create
-Learn graph generation rules (as in wolfram physics project) using ML
+Learn graph generation rules (as in wolfram physics project)
 
 Language Models
 - Agents
