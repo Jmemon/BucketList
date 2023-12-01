@@ -21,7 +21,9 @@ Optimal Transport
 - [Computational Optimal Transport](https://optimaltransport.github.io/book/)
 - [Neural Optimal Transport for Dynamical Systems](https://github.com/bunnech/phd_thesis/blob/main/README.md)
 
-General Relativity
+Relativity
+Quantum Machanics
+Statistical Mechanics
 
 Stochastic Differential Equations
 
