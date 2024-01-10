@@ -30,6 +30,7 @@ Statistical Mechanics
 Stochastic Differential Equations
 
 Information Theory
+- [Elements of Information Theory](http://staff.ustc.edu.cn/~mfy/InfoTheory/Complements/Elements%20of%20Information%20Theory%202nd.pdf)
 - [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 Horomone Biology
